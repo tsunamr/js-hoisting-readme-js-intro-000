@@ -16,10 +16,9 @@ function crazy() {
 }
 
 
-var name = "Kristin";
+
   function sayMyname() {
     console.log("Kristin");
-    return name
-
+  
 
   }
