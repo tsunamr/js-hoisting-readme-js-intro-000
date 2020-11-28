@@ -17,8 +17,8 @@ function crazy() {
 
 
 
-  function sayMyname() {
+  function sayMyname(name) {
     console.log("Kristin");
-  
+
 
   }
